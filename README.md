@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👨‍💻 website: [neuronsraf.github.io](https://neuronsraf.github.io)
+- 🐱 scratch: [neuron-](https://scratch.mit.edu/users/neuron-)
+- 💬 discord: neuron#3568
+
+![GitHub metrics-thingy](https://github-readme-stats.vercel.app/api?username=neuronsraf&count_private=true&show_icons=true&bg_color=30,1e90ff,1e30ff&title_color=fff&text_color=fff&icon_color=fff)
